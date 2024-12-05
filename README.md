@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I am a **BTech CSE, 2nd year student** passionate 
   <a>  
 
 - **GeeksforGeeks**: [nikhil_vaishnav_17](https://www.geeksforgeeks.org/user/nikhil_vaishnav_17/)
+  <br>
   <a href="https://www.geeksforgeeks.org/user/Nikhil_vaishnav_17/">
     <img src="https://gfgstatscard.vercel.app/Nikhil_vaishnav_17" alt="GFG stats" />
   </a>
