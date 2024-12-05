@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a **BTech CSE, 2nd year student** passionate 
 ## 🌟 **My Coding Profiles**  
 
 - **LeetCode**: [Nikhil_Vaishnav_19](https://leetcode.com/u/Nikhil_vaishnav_19/)  
-  <a href="https://leetcode.com/sriragavip24032004/">
+  <a href="https://leetcode.com/Nikhil_vaishnav_19/">
     <img src="https://leetcard.jacoblin.cool/Nikhil_vaishnav_19?theme=dark&font=Goldman&ext=activityy"></img>
   <a>  
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img> 
