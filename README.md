@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a **BTech CSE student** passionate about codi
 ## 🌟 **My Coding Profiles**  
 
 - **LeetCode**: [Nikhil Vaishnav](https://leetcode.com/u/Nikhil_vaishnav_19/)  
-  ![LeetCode Badge](https://leetcard.jacoblin.cool/u/Nikhil_vaishnav_19?theme=dark&ext=heatmap)  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/u/Nikhil_vaishnav_19?theme=dark)  
   **🏆 Achieved a 50-day streak in 2024!**  
 
 - **GeeksforGeeks**: [Nikhil Vaishnav](https://www.geeksforgeeks.org/user/nikhil_vaishnav_17/)  
@@ -38,17 +38,16 @@ Welcome to my GitHub profile! I am a **BTech CSE student** passionate about codi
 
 ## 🧰 **Tech Stack**  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
----
-
-### 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilvaishnav&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilvaishnav&theme=radical)  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/DSA-FF9900?style=for-the-badge&logo=algolia&logoColor=white" alt="DSA" />
+</p>
 
 ---
 
