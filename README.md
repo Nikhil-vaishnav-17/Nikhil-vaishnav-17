@@ -16,7 +16,9 @@ Welcome to my GitHub profile! I am a **BTech CSE student** passionate about codi
 ## 🌟 **My Coding Profiles**  
 
 - **LeetCode**: [Nikhil Vaishnav](https://leetcode.com/u/Nikhil_vaishnav_19/)  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/u/Nikhil_vaishnav_19?theme=dark)  
+  <a href="https://leetcode.com/sriragavip24032004/">
+    <img src="https://leetcard.jacoblin.cool/Nikhil_vaishnav_19?theme=dark&font=Goldman&ext=activityy"></img>
+<a>  
   **🏆 Achieved a 50-day streak in 2024!**  
 
 - **GeeksforGeeks**: [Nikhil Vaishnav](https://www.geeksforgeeks.org/user/nikhil_vaishnav_17/)  
