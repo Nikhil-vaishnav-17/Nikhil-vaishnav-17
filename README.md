@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a **BTech CSE, 2nd year student** passionate 
 ---
 
 ## 🚀 **About Me**  
-- 🌱 Currently learning **AI & Web Development**  
+- 🌱 Currently learning **AI & DSA**  
 - 💻 Enjoy solving coding challenges on **LeetCode**, **GeeksforGeeks**, and **HackerRank**  
 - 🛠️ Building cool projects and collaborating on exciting ideas!  
 - 📫 Reach me at **[work.nikhilvaishnav@gmail.com](mailto:work.nikhilvaishnav@gmail.com)**  
