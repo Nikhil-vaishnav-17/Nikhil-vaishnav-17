@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a **BTech CSE, 2nd year student** passionate 
 ---
 
 ## 🚀 **About Me**  
-- 🌱 Currently learning **AI & DSA**  
+- 🌱 Currently learning **ML**  
 - 💻 Enjoy solving coding challenges on **LeetCode**, **GeeksforGeeks**, and **HackerRank**  
 - 🛠️ Building cool projects and collaborating on exciting ideas!  
 - 📫 Reach me at **[work.nikhilvaishnav@gmail.com](mailto:work.nikhilvaishnav@gmail.com)**  
@@ -45,6 +45,11 @@ Welcome to my GitHub profile! I am a **BTech CSE, 2nd year student** passionate 
 ## 🧰 **Tech Stack**  
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00897B?style=for-the-badge&logo=chatbot&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -54,7 +59,6 @@ Welcome to my GitHub profile! I am a **BTech CSE, 2nd year student** passionate 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
 </p>
 
 ---
