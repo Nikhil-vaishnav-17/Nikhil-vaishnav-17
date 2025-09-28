@@ -1,13 +1,13 @@
 # Hi there! 👋  
 ### I'm Nikhil Vaishnav  
 
-Welcome to my GitHub profile! I am a **BTech CSE, 2nd year student** passionate about coding, web development, and solving problems. Here's a little about me:  
+Welcome to my GitHub profile! I am a **BTech CSE, 3rd year student** passionate about coding, AI, and solving problems. Here's a little about me:  
 
 ---
 
 ## 🚀 **About Me**  
 - 🌱 Currently learning **ML**  
-- 💻 Enjoy solving coding challenges on **LeetCode**, **GeeksforGeeks**, and **HackerRank**  
+- 💻 Enjoy solving coding challenges on **LeetCode** and **GeeksforGeeks**
 - 🛠️ Building cool projects and collaborating on exciting ideas!  
 - 📫 Reach me at **[work.nikhilvaishnav@gmail.com](mailto:work.nikhilvaishnav@gmail.com)**  
 
@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I am a **BTech CSE, 2nd year student** passionate 
 
 ## 🌟 **My Coding Profiles**  
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img> 
+
+- **Codolio** : [NikhilVaishnav](https://codolio.com/profile/NikhilVaishnav)
 
 - **LeetCode**: [Nikhil_Vaishnav_19](https://leetcode.com/u/Nikhil_vaishnav_19/)  
   <a href="https://leetcode.com/Nikhil_vaishnav_19/">
@@ -26,7 +28,6 @@ Welcome to my GitHub profile! I am a **BTech CSE, 2nd year student** passionate 
   <a href="https://www.geeksforgeeks.org/user/Nikhil_vaishnav_17/">
     <img src="https://gfgstatscard.vercel.app/Nikhil_vaishnav_17" alt="GFG stats" />
   </a>
-
 
 - **HackerRank**: [nikhilvaishnaw11](https://www.hackerrank.com/profile/nikhilvaishnaw11)
 
